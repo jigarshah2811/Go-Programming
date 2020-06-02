@@ -1,0 +1,6 @@
+file ends with _test.go, keep in the same package
+run with go test (or run 'go test ./...' for recurssive)
+
+Docs
+# https://www.golang-book.com/books/intro/12
+# https://godoc.org/testing 
