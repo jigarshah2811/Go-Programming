@@ -1,14 +1,14 @@
-#BET
+###BET
 - Test
 - Benchmark
 - Example
 
-#Definition
+###Definition
 - TestFun(t *testing.T)
 - BenchmarkFun(b *testing.B)
 - ExampleFun()
 
-#Commands
+###Commands
 ```
 go test            (test everything from here on subpackages, use ./...)
 go test -cover     (check how much is total test coverage)
